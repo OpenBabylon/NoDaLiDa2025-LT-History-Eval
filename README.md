@@ -43,11 +43,14 @@ If you use this code or dataset in your research, please cite the paper:
 
 
 ```
-@article{kostiuk2025multilingual,
-  title={Towards Multilingual LLM Evaluation for Baltic and Nordic Languages: A Study on Lithuanian History},
-  author={Kostiuk, Yevhen and Vitman, Oxana and Gagała, Łukasz and Kiulian, Artur},
-  journal={arXiv preprint arXiv:2501.09154},
-  year={2025}
+@misc{kostiuk2025multilingualllmevaluationbaltic,
+      title={Towards Multilingual LLM Evaluation for Baltic and Nordic languages: A study on Lithuanian History}, 
+      author={Yevhen Kostiuk and Oxana Vitman and Łukasz Gagała and Artur Kiulian},
+      year={2025},
+      eprint={2501.09154},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2501.09154}, 
 }
 ```
 
